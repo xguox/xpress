@@ -6,7 +6,7 @@ Super  clean & white design theme for [Octopress](http://octopress.org)
 
 To correspond with my needs exactly, Xpress combined  [tcnksm / mnmlpress](https://github.com/tcnksm/mnmlpress) with [tlvince / leanpress](https://github.com/tlvince/leanpress)
 
-It can be viewed in action on [my personal site](http://xguox.me/).
+~~It can be viewed in action on [my personal site](http://xguox.me/).~~
 
 & Screenshot:
 
