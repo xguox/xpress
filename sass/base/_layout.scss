@@ -11,6 +11,9 @@ body{
 	font-weight: 400;
 	line-height: 3;
 	background: $color-background;
+	background: url('/images/bg.png') repeat fixed;
+	background-repeat: repeat;
+	background-attachment: fixed;
 	@media screen and (max-width: 1040px){
 		margin: 0 20px;
 	}
