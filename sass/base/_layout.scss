@@ -1,4 +1,4 @@
-$max-width: 680px;
+$max-width: 760px;
 
 *{
 	margin: 0;
@@ -87,4 +87,9 @@ a.category {
 	@media screen and (max-width: 1040px){
 		width: 100%;
 	}
+}
+
+//custom:  make max-width bigger, and center the link-list
+.list {
+  padding-left: 100px;
 }
